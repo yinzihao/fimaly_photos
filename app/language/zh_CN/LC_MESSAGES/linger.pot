@@ -1,0 +1,1557 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Linger 图片分享系统\n"
+"POT-Creation-Date: 2014-11-11 21:00:20\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: Loveyu <admin@loveyu.info>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Basepath: ../../../\n"
+
+#: app/helper/theme.php:247
+msgid "at now"
+msgstr ""
+
+#: app/helper/theme.php:251
+msgid " ago."
+msgstr ""
+
+#: app/helper/theme.php:268
+msgid "seconds"
+msgstr ""
+
+#: app/helper/theme.php:270
+msgid "minutes"
+msgstr ""
+
+#: app/helper/theme.php:273
+msgid "hours"
+msgstr ""
+
+#: app/helper/theme.php:276
+msgid "days"
+msgstr ""
+
+#: app/helper/theme.php:279
+msgid "months"
+msgstr ""
+
+#: app/helper/theme.php:282
+msgid "years"
+msgstr ""
+
+#: app/helper/theme.php:488
+msgid "tags:"
+msgstr ""
+
+#: app/helper/theme.php:495
+msgid "none"
+msgstr ""
+
+#: app/lib/Comment.php:114
+msgid "Comment class construct error"
+msgstr ""
+
+#: app/lib/CommentData.php:470
+msgid "Comment relation table error."
+msgstr ""
+
+#: app/lib/CommentData.php:473
+msgid "Comment data is empty."
+msgstr ""
+
+#: app/lib/CommentData.php:476
+msgid "Reply id is error."
+msgstr ""
+
+#: app/lib/CommentData.php:479
+msgid "Reply comment is not exists."
+msgstr ""
+
+#: app/lib/CommentData.php:482
+msgid "Comment error on data."
+msgstr ""
+
+#: app/lib/CommentData.php:485
+msgid "Comment error on table."
+msgstr ""
+
+#: app/lib/CommentData.php:488
+msgid "Comment can't count."
+msgstr ""
+
+#: app/lib/CommentData.php:491
+msgid "Comment load error."
+msgstr ""
+
+#: app/lib/CommentData.php:494
+msgid "Comment page not found."
+msgstr ""
+
+#: app/lib/CommentData.php:497
+msgid "Oh, no comments yet, you can write something at now."
+msgstr ""
+
+#: app/lib/CommentData.php:500
+msgid "Comment are closed."
+msgstr ""
+
+#: app/lib/CommentData.php:503
+#: app/lib/ListPic.php:337
+msgid "Unknown error"
+msgstr ""
+
+#: app/lib/CommentList.php:83
+msgid "CommentList class construct error."
+msgstr ""
+
+#: app/lib/CommentList.php:85
+msgid "Data get error."
+msgstr ""
+
+#: app/lib/CommentList.php:87
+#: app/lib/CommentManagement.php:401
+#: app/lib/Feed.class.php:450
+#: app/lib/Feed.class.php:521
+#: app/lib/Feed.class.php:653
+#: app/lib/Feed.php:402
+#: app/lib/FeedManagement.php:151
+#: app/lib/FollowManagement.php:543
+#: app/lib/Gallery.php:881
+#: app/lib/Message.php:590
+#: app/lib/Notice.php:197
+#: app/lib/Post.php:429
+msgid "Unknown error."
+msgstr ""
+
+#: app/lib/CommentList.php:196
+msgid "Get comment list of user error."
+msgstr ""
+
+#: app/lib/CommentList.php:209
+msgid "Data loss on CommentList class."
+msgstr ""
+
+#: app/lib/CommentManagement.php:92
+msgid "Number of "
+msgstr ""
+
+#: app/lib/CommentManagement.php:92
+msgid "PICTURE"
+msgstr ""
+
+#: app/lib/CommentManagement.php:108
+msgid "GALLERY"
+msgstr ""
+
+#: app/lib/CommentManagement.php:125
+msgid "POST"
+msgstr ""
+
+#: app/lib/CommentManagement.php:138
+msgid "Comment get type data error."
+msgstr ""
+
+#: app/lib/CommentManagement.php:177
+msgid "Get comment type error."
+msgstr ""
+
+#: app/lib/CommentManagement.php:384
+#: app/lib/CommentManagement.php:385
+msgid "Delete comment error."
+msgstr ""
+
+#: app/lib/CommentManagement.php:387
+msgid "No comment had delete."
+msgstr ""
+
+#: app/lib/CommentManagement.php:389
+msgid "Comment is not exists."
+msgstr ""
+
+#: app/lib/CommentManagement.php:391
+msgid "Comment type id not defined."
+msgstr ""
+
+#: app/lib/CommentManagement.php:393
+msgid "Comment top add error."
+msgstr ""
+
+#: app/lib/CommentManagement.php:395
+#: app/lib/CommentManagement.php:396
+msgid "Cancel comment like error."
+msgstr ""
+
+#: app/lib/CommentManagement.php:398
+#: app/lib/CommentManagement.php:399
+msgid "Like comment error."
+msgstr ""
+
+#: app/lib/CountMessage.php:54
+msgid "Get user count info error."
+msgstr ""
+
+#: app/lib/CountMessage.php:101
+msgid "Count info get error."
+msgstr ""
+
+#: app/lib/CountMessage.php:112
+msgid "Count info update error."
+msgstr ""
+
+#: app/lib/CountMessage.php:127
+msgid "Count info insert error."
+msgstr ""
+
+#: app/lib/Feed.class.php:446
+msgid "This picture share are close."
+msgstr ""
+
+#: app/lib/Feed.class.php:448
+msgid "This picture are not found."
+msgstr ""
+
+#: app/lib/Feed.class.php:517
+msgid "Gallery are not found."
+msgstr ""
+
+#: app/lib/Feed.class.php:519
+msgid "Gallery share are close."
+msgstr ""
+
+#: app/lib/Feed.class.php:649
+#: app/lib/Feed.php:396
+msgid "Share content is empty."
+msgstr ""
+
+#: app/lib/Feed.class.php:651
+msgid "Share content is to long."
+msgstr ""
+
+#: app/lib/Feed.php:75
+#: app/lib/FeedManagement.php:97
+msgid "Get feed list error."
+msgstr ""
+
+#: app/lib/Feed.php:169
+#: app/lib/ListGallery.php:160
+msgid "Select other users error."
+msgstr ""
+
+#: app/lib/Feed.php:358
+msgid "Insert feed error."
+msgstr ""
+
+#: app/lib/Feed.php:388
+msgid "Init share picture error."
+msgstr ""
+
+#: app/lib/Feed.php:390
+msgid "Share picture data insert error."
+msgstr ""
+
+#: app/lib/Feed.php:392
+msgid "Share gallery data insert error."
+msgstr ""
+
+#: app/lib/Feed.php:394
+msgid "Init share gallery error."
+msgstr ""
+
+#: app/lib/Feed.php:398
+msgid "Share talk data error."
+msgstr ""
+
+#: app/lib/Feed.php:400
+msgid "Create share data error."
+msgstr ""
+
+#: app/lib/FeedManagement.php:122
+msgid "Delete feed error."
+msgstr ""
+
+#: app/lib/FeedManagement.php:145
+msgid "No found this feed."
+msgstr ""
+
+#: app/lib/FeedManagement.php:147
+msgid "Delete error, please try later."
+msgstr ""
+
+#: app/lib/FeedManagement.php:149
+msgid "No delete any data, please try later."
+msgstr ""
+
+#: app/lib/FileAction.php:34
+msgid "Image file delete fail:"
+msgstr ""
+
+#: app/lib/FollowManagement.php:70
+msgid "users follow table get error."
+msgstr ""
+
+#: app/lib/FollowManagement.php:84
+msgid "follow message insert error."
+msgstr ""
+
+#: app/lib/FollowManagement.php:121
+msgid "follow message delete error."
+msgstr ""
+
+#: app/lib/FollowManagement.php:125
+msgid "follow message can not be delete."
+msgstr ""
+
+#: app/lib/FollowManagement.php:172
+msgid "Count follow message error"
+msgstr ""
+
+#: app/lib/FollowManagement.php:242
+msgid "Get me follow users list error on sql."
+msgstr ""
+
+#: app/lib/FollowManagement.php:287
+msgid "Get follow me users list error on sql."
+msgstr ""
+
+#: app/lib/FollowManagement.php:336
+msgid "Get mutual follow users list error on sql."
+msgstr ""
+
+#: app/lib/FollowManagement.php:359
+msgid "Follow gallery sql error."
+msgstr ""
+
+#: app/lib/FollowManagement.php:386
+msgid "insert follow gallery error"
+msgstr ""
+
+#: app/lib/FollowManagement.php:416
+#: app/lib/FollowManagement.php:537
+msgid "Delete gallery follow data error."
+msgstr ""
+
+#: app/lib/FollowManagement.php:466
+msgid "Get user follow gallery error!"
+msgstr ""
+
+#: app/lib/FollowManagement.php:515
+msgid "User id error . "
+msgstr ""
+
+#: app/lib/FollowManagement.php:517
+msgid "Can't follow yourself."
+msgstr ""
+
+#: app/lib/FollowManagement.php:519
+msgid "Follow user error."
+msgstr ""
+
+#: app/lib/FollowManagement.php:521
+msgid "You've already attention to this user . "
+msgstr ""
+
+#: app/lib/FollowManagement.php:523
+msgid "Follow user not found!"
+msgstr ""
+
+#: app/lib/FollowManagement.php:525
+msgid "Follow count info flag error . "
+msgstr ""
+
+#: app/lib/FollowManagement.php:527
+msgid "Follow gallery error . "
+msgstr ""
+
+#: app/lib/FollowManagement.php:529
+msgid "Follow gallery is not exists"
+msgstr ""
+
+#: app/lib/FollowManagement.php:531
+msgid "You can't follow yourself gallery."
+msgstr ""
+
+#: app/lib/FollowManagement.php:533
+msgid "You have already attention to this gallery."
+msgstr ""
+
+#: app/lib/FollowManagement.php:535
+msgid "The gallery concern does not exists."
+msgstr ""
+
+#: app/lib/FollowManagement.php:539
+msgid "Delete gallery error."
+msgstr ""
+
+#: app/lib/FollowManagement.php:541
+msgid "Cancel follow user error."
+msgstr ""
+
+#: app/lib/Gallery.php:126
+msgid "Set gallery more info error."
+msgstr ""
+
+#: app/lib/Gallery.php:575
+msgid "Gallery not found."
+msgstr ""
+
+#: app/lib/Gallery.php:670
+#: app/lib/Gallery.php:867
+msgid "Gallery set public error."
+msgstr ""
+
+#: app/lib/Gallery.php:702
+#: app/lib/Gallery.php:869
+msgid "Gallery set draft error."
+msgstr ""
+
+#: app/lib/Gallery.php:801
+msgid "Get gallery previous and next info error."
+msgstr ""
+
+#: app/lib/Gallery.php:817
+#: app/lib/Gallery.php:865
+msgid "Gallery get previous and next page id error."
+msgstr ""
+
+#: app/lib/Gallery.php:837
+msgid "Insert gallery error sql."
+msgstr ""
+
+#: app/lib/Gallery.php:839
+msgid "Insert failed."
+msgstr ""
+
+#: app/lib/Gallery.php:841
+msgid "title not be empty"
+msgstr ""
+
+#: app/lib/Gallery.php:843
+msgid "delete create a error."
+msgstr ""
+
+#: app/lib/Gallery.php:845
+msgid "No delete any gallery"
+msgstr ""
+
+#: app/lib/Gallery.php:847
+msgid "No permission on this gallery"
+msgstr ""
+
+#: app/lib/Gallery.php:849
+msgid "comment status error."
+msgstr ""
+
+#: app/lib/Gallery.php:851
+msgid "Gallery info update error."
+msgstr ""
+
+#: app/lib/Gallery.php:853
+msgid "Pic list is empty"
+msgstr ""
+
+#: app/lib/Gallery.php:855
+msgid "User own pic list is empty"
+msgstr ""
+
+#: app/lib/Gallery.php:857
+msgid "No new pictures add"
+msgstr ""
+
+#: app/lib/Gallery.php:859
+msgid "Delete gallery pictures make a sql error."
+msgstr ""
+
+#: app/lib/Gallery.php:861
+msgid "Cancel like gallery error."
+msgstr ""
+
+#: app/lib/Gallery.php:863
+msgid "Like gallery error."
+msgstr ""
+
+#: app/lib/Gallery.php:871
+msgid "Gallery must be have a title."
+msgstr ""
+
+#: app/lib/Gallery.php:873
+msgid "Gallery must be have a description"
+msgstr ""
+
+#: app/lib/Gallery.php:875
+msgid "Gallery must be have a front cover."
+msgstr ""
+
+#: app/lib/Gallery.php:877
+msgid "Gallery must be have a tag."
+msgstr ""
+
+#: app/lib/Gallery.php:879
+msgid "Gallery must be have a picture."
+msgstr ""
+
+#: app/lib/ListPic.php:332
+msgid "User is error."
+msgstr ""
+
+#: app/lib/ListPic.php:335
+msgid "Data select error on sql."
+msgstr ""
+
+#: app/lib/MailTemplate.php:63
+msgid "Template is not exists."
+msgstr ""
+
+#: app/lib/MailTemplate.php:186
+msgid "Mail send is cancel."
+msgstr ""
+
+#: app/lib/MailTemplate.php:218
+msgid "Mail Send Error."
+msgstr ""
+
+#: app/lib/Message.php:133
+msgid "Get system message error on sql."
+msgstr ""
+
+#: app/lib/Message.php:174
+msgid "Get outbox message error on sql."
+msgstr ""
+
+#: app/lib/Message.php:225
+msgid "Message set del error."
+msgstr ""
+
+#: app/lib/Message.php:294
+msgid "select user id list error on message."
+msgstr ""
+
+#: app/lib/Message.php:324
+msgid "Insert message error."
+msgstr ""
+
+#: app/lib/Message.php:366
+#: app/lib/Message.php:584
+msgid "Add message notice error."
+msgstr ""
+
+#: app/lib/Message.php:406
+msgid "Get inbox message error on sql."
+msgstr ""
+
+#: app/lib/Message.php:449
+msgid "Set "
+msgstr ""
+
+#: app/lib/Message.php:503
+msgid "Get sql message users error."
+msgstr ""
+
+#: app/lib/Message.php:550
+msgid "The sender id error!"
+msgstr ""
+
+#: app/lib/Message.php:552
+msgid "You have no permission to send system message."
+msgstr ""
+
+#: app/lib/Message.php:554
+msgid "Your must activation you account."
+msgstr ""
+
+#: app/lib/Message.php:556
+msgid "The message content is empty."
+msgstr ""
+
+#: app/lib/Message.php:558
+msgid "You post users list is too big."
+msgstr ""
+
+#: app/lib/Message.php:560
+msgid "Does not have a valid user."
+msgstr ""
+
+#: app/lib/Message.php:562
+msgid "Too large number of users."
+msgstr ""
+
+#: app/lib/Message.php:564
+msgid "Send error on users parse."
+msgstr ""
+
+#: app/lib/Message.php:566
+msgid "Your message is sent too fast."
+msgstr ""
+
+#: app/lib/Message.php:568
+msgid "You do not have permission to perform this operation."
+msgstr ""
+
+#: app/lib/Message.php:570
+msgid "Get pager count error."
+msgstr ""
+
+#: app/lib/Message.php:572
+msgid "This message was not found."
+msgstr ""
+
+#: app/lib/Message.php:574
+msgid "You can't send message to yourself."
+msgstr ""
+
+#: app/lib/Message.php:576
+msgid "Message does not belong to you."
+msgstr ""
+
+#: app/lib/Message.php:578
+msgid "Delete message error, please try later."
+msgstr ""
+
+#: app/lib/Message.php:580
+msgid "Flag message to read is error, maybe is already read or not found."
+msgstr ""
+
+#: app/lib/Message.php:582
+msgid "Add notice error, data is verify error."
+msgstr ""
+
+#: app/lib/Message.php:586
+msgid "System message title can not be empty."
+msgstr ""
+
+#: app/lib/Message.php:588
+msgid "System does not delete any message data."
+msgstr ""
+
+#: app/lib/Meta.php:116
+msgid "Meta insert no found data"
+msgstr ""
+
+#: app/lib/Meta.php:120
+msgid "Meta insert Sql error."
+msgstr ""
+
+#: app/lib/Meta.php:149
+msgid "Meta set Error on Update."
+msgstr ""
+
+#: app/lib/Meta.php:156
+msgid "Meta set Error on EXISTS."
+msgstr ""
+
+#: app/lib/Meta.php:162
+msgid "Meta set Error on Insert."
+msgstr ""
+
+#: app/lib/Meta.php:186
+msgid "Meta key delete error on SQL."
+msgstr ""
+
+#: app/lib/Meta.php:214
+msgid "Get meta on "
+msgstr ""
+
+#: app/lib/Notice.php:120
+#: app/lib/Notice.php:144
+msgid "When someone follow about me"
+msgstr ""
+
+#: app/lib/Notice.php:121
+#: app/lib/Notice.php:145
+msgid "When someone follow about my gallery"
+msgstr ""
+
+#: app/lib/Notice.php:122
+#: app/lib/Notice.php:146
+msgid "When someone commented on my picture"
+msgstr ""
+
+#: app/lib/Notice.php:123
+#: app/lib/Notice.php:147
+msgid "When someone commented on my gallery"
+msgstr ""
+
+#: app/lib/Notice.php:124
+#: app/lib/Notice.php:148
+msgid "When someone replies to my comment"
+msgstr ""
+
+#: app/lib/Notice.php:125
+#: app/lib/Notice.php:149
+msgid "When someone like my pictures"
+msgstr ""
+
+#: app/lib/Notice.php:126
+#: app/lib/Notice.php:150
+msgid "When someone like my gallery"
+msgstr ""
+
+#: app/lib/Notice.php:127
+#: app/lib/Notice.php:151
+msgid "When someone like my comment"
+msgstr ""
+
+#: app/lib/Notice.php:128
+msgid "When someone sends a message to me"
+msgstr ""
+
+#: app/lib/Notice.php:129
+msgid "When the system sends a message to me"
+msgstr ""
+
+#: app/lib/Notice.php:130
+#: app/lib/Notice.php:152
+msgid "When an exception is generated login information"
+msgstr ""
+
+#: app/lib/Notice.php:131
+#: app/lib/Notice.php:153
+msgid "Error login too many times"
+msgstr ""
+
+#: app/lib/Notice.php:132
+#: app/lib/Notice.php:154
+msgid "When the site has information on activities"
+msgstr ""
+
+#: app/lib/Notice.php:193
+msgid "Update param is miss."
+msgstr ""
+
+#: app/lib/Notice.php:195
+msgid "Notice class initialization error."
+msgstr ""
+
+#: app/lib/NoticeApply.php:144
+msgid "NoticeApply notice create ex."
+msgstr ""
+
+#: app/lib/NoticeApply.php:183
+msgid "NoticeApply comment_picture create a Exception."
+msgstr ""
+
+#: app/lib/NoticeApply.php:213
+msgid "NoticeApply message_comment_picture create a Exception."
+msgstr ""
+
+#: app/lib/NoticeApply.php:242
+msgid "NoticeApply mail_comment_gallery create a Exception."
+msgstr ""
+
+#: app/lib/NoticeApply.php:271
+msgid "NoticeApply message_comment_gallery create a Exception."
+msgstr ""
+
+#: app/lib/NoticeApply.php:318
+msgid "NoticeApply mail_comment_reply create a Exception."
+msgstr ""
+
+#: app/lib/NoticeApply.php:365
+msgid "NoticeApply message_comment_reply create a Exception."
+msgstr ""
+
+#: app/lib/NoticeApply.php:394
+msgid "NoticeApply mail_like_pic create a Exception."
+msgstr ""
+
+#: app/lib/NoticeApply.php:423
+msgid "NoticeApply message_like_pic create a Exception."
+msgstr ""
+
+#: app/lib/NoticeApply.php:450
+msgid "NoticeApply mail_like_gallery create a Exception."
+msgstr ""
+
+#: app/lib/NoticeApply.php:477
+msgid "NoticeApply message_like_gallery create a Exception."
+msgstr ""
+
+#: app/lib/NoticeApply.php:521
+msgid "NoticeApply mail_like_comment create a Exception."
+msgstr ""
+
+#: app/lib/NoticeApply.php:565
+msgid "NoticeApply message_like_comment create a Exception."
+msgstr ""
+
+#: app/lib/NoticeApply.php:595
+msgid "NoticeApply mail_send_message create a Exception."
+msgstr ""
+
+#: app/lib/NoticeApply.php:620
+msgid "NoticeApply mail_send_system_message create a Exception."
+msgstr ""
+
+#: app/lib/NoticeApply.php:636
+msgid "NoticeApply mail_exception_login create a Exception."
+msgstr ""
+
+#: app/lib/NoticeApply.php:652
+msgid "NoticeApply message_exception_login create a Exception."
+msgstr ""
+
+#: app/lib/NoticeApply.php:679
+msgid "NoticeApply mail_login_restrictions create a Exception."
+msgstr ""
+
+#: app/lib/NoticeApply.php:706
+msgid "NoticeApply message_login_restrictions create a Exception."
+msgstr ""
+
+#: app/lib/NoticeApply.php:716
+msgid "NoticeApply mail_site_activity_information create a Exception."
+msgstr ""
+
+#: app/lib/NoticeApply.php:726
+msgid "NoticeApply message_site_activity_information create a Exception."
+msgstr ""
+
+#: app/lib/NoticeApply.php:760
+msgid "NoticeApply mail_follow_gallery create a Exception."
+msgstr ""
+
+#: app/lib/NoticeApply.php:793
+msgid "NoticeApply message_follow_gallery create a Exception."
+msgstr ""
+
+#: app/lib/NoticeApply.php:821
+msgid "NoticeApply mail_follow_me create a Exception."
+msgstr ""
+
+#: app/lib/NoticeApply.php:849
+msgid "Message to message_follow_me create a Exception."
+msgstr ""
+
+#: app/lib/Option.php:55
+msgid "User register already closed."
+msgstr ""
+
+#: app/lib/Option.php:99
+msgid "Update option error"
+msgstr ""
+
+#: app/lib/Option.php:109
+msgid "Insert unknown option error."
+msgstr ""
+
+#: app/lib/Picture.php:518
+msgid "get simple picture info error."
+msgstr ""
+
+#: app/lib/Picture.php:622
+msgid "Like picture error."
+msgstr ""
+
+#: app/lib/Picture.php:750
+msgid "Picture tag can not set on insert."
+msgstr ""
+
+#: app/lib/Picture.php:854
+msgid "Path create error."
+msgstr ""
+
+#: app/lib/Picture.php:899
+msgid "Server info check Error."
+msgstr ""
+
+#: app/lib/Picture.php:901
+msgid "Upload param error."
+msgstr ""
+
+#: app/lib/Picture.php:903
+msgid "A maximum of 20 allowed to upload pictures."
+msgstr ""
+
+#: app/lib/Picture.php:905
+msgid "Delete picture error."
+msgstr ""
+
+#: app/lib/Picture.php:907
+msgid "Picture not found."
+msgstr ""
+
+#: app/lib/Picture.php:909
+msgid "Picture not found on the user"
+msgstr ""
+
+#: app/lib/Picture.php:911
+msgid "status code error"
+msgstr ""
+
+#: app/lib/Picture.php:913
+msgid "Update picture info error."
+msgstr ""
+
+#: app/lib/Picture.php:915
+msgid "User id error on select pictures."
+msgstr ""
+
+#: app/lib/Picture.php:917
+msgid "Select pictures error on sql."
+msgstr ""
+
+#: app/lib/Picture.php:919
+msgid "Cancel like fail."
+msgstr ""
+
+#: app/lib/Picture.php:921
+msgid "Like fail."
+msgstr ""
+
+#: app/lib/Picture.php:923
+msgid "First change gallery front cover, than delete it!"
+msgstr ""
+
+#: app/lib/Picture.php:925
+msgid "Unknown Error."
+msgstr ""
+
+#: app/lib/Post.php:94
+msgid "delete post error."
+msgstr ""
+
+#: app/lib/Post.php:234
+msgid "Select post list error."
+msgstr ""
+
+#: app/lib/Post.php:263
+msgid "Select public post list error."
+msgstr ""
+
+#: app/lib/Post.php:296
+msgid "Insert post content error."
+msgstr ""
+
+#: app/lib/Post.php:356
+#: app/lib/Post.php:427
+msgid "Update post error."
+msgstr ""
+
+#: app/lib/Post.php:405
+msgid "Post title can no be empty."
+msgstr ""
+
+#: app/lib/Post.php:407
+msgid "Post name check error."
+msgstr ""
+
+#: app/lib/Post.php:409
+msgid "Post create error."
+msgstr ""
+
+#: app/lib/Post.php:411
+msgid "You do not have permission."
+msgstr ""
+
+#: app/lib/Post.php:413
+msgid "The post is not exists."
+msgstr ""
+
+#: app/lib/Post.php:415
+msgid "Delete post error."
+msgstr ""
+
+#: app/lib/Post.php:417
+msgid "This name is exists."
+msgstr ""
+
+#: app/lib/Post.php:419
+msgid "Post content can not be empty!"
+msgstr ""
+
+#: app/lib/Post.php:421
+msgid "This post name is exists, please try for another."
+msgstr ""
+
+#: app/lib/Post.php:423
+msgid "This post category is not exists."
+msgstr ""
+
+#: app/lib/Post.php:425
+msgid "This post status code is error."
+msgstr ""
+
+#: app/lib/POTCreator.php:126
+msgid "file not exists"
+msgstr ""
+
+#: app/lib/Queue.php:54
+msgid "Queue Error:"
+msgstr ""
+
+#: app/lib/Queue.php:117
+msgid "Add queue error on sql."
+msgstr ""
+
+#: app/lib/Queue.php:159
+msgid "unserialize error"
+msgstr ""
+
+#: app/lib/Queue.php:164
+msgid "callback class error."
+msgstr ""
+
+#: app/lib/Server.php:126
+msgid "Url format error."
+msgstr ""
+
+#: app/lib/Server.php:128
+msgid "Database write error."
+msgstr ""
+
+#: app/lib/Server.php:130
+msgid "Name is error, only allow a-z."
+msgstr ""
+
+#: app/lib/Server.php:132
+#: app/lib/Tag.php:214
+msgid "Unknown Error"
+msgstr ""
+
+#: app/lib/Tag.php:75
+msgid "Call tag add error."
+msgstr ""
+
+#: app/lib/Tag.php:96
+msgid "Call tag del error."
+msgstr ""
+
+#: app/lib/Tag.php:200
+msgid "Pic is not found."
+msgstr ""
+
+#: app/lib/Tag.php:202
+msgid "Add pic tag error on tag is exists."
+msgstr ""
+
+#: app/lib/Tag.php:204
+msgid "Pic not found this tag."
+msgstr ""
+
+#: app/lib/Tag.php:206
+msgid "Tag is not found."
+msgstr ""
+
+#: app/lib/Tag.php:208
+msgid "Delete tags error on sql."
+msgstr ""
+
+#: app/lib/Tag.php:210
+msgid "Insert tags error on sql."
+msgstr ""
+
+#: app/lib/Tag.php:212
+msgid "table not defined"
+msgstr ""
+
+#: app/lib/Theme.php:531
+msgid "Previous"
+msgstr ""
+
+#: app/lib/Theme.php:543
+msgid "The first page"
+msgstr ""
+
+#: app/lib/Theme.php:543
+msgid "Index"
+msgstr ""
+
+#: app/lib/Theme.php:550
+#: app/lib/Theme.php:553
+msgid "The "
+msgstr ""
+
+#: app/lib/Theme.php:550
+#: app/lib/Theme.php:553
+msgid " page"
+msgstr ""
+
+#: app/lib/Theme.php:553
+msgid "End"
+msgstr ""
+
+#: app/lib/Theme.php:558
+msgid "Next"
+msgstr ""
+
+#: app/lib/third/CheckUpdate.php:29
+msgid "The update uri validate error."
+msgstr ""
+
+#: app/lib/User.php:169
+msgid "User add stack error."
+msgstr ""
+
+#: app/lib/User.php:226
+#: app/lib/UserControl.php:402
+#: sys/core/lib/upload.php:451
+msgid "Unknown"
+msgstr ""
+
+#: app/lib/User.php:227
+msgid "Unverified"
+msgstr ""
+
+#: app/lib/User.php:229
+msgid "Normal"
+msgstr ""
+
+#: app/lib/User.php:231
+msgid "Restrict Login"
+msgstr ""
+
+#: app/lib/User.php:233
+msgid "Lockout Login"
+msgstr ""
+
+#: app/lib/User.php:246
+msgid "User ID param error."
+msgstr ""
+
+#: app/lib/User.php:248
+msgid "User ID array param col error."
+msgstr ""
+
+#: app/lib/User.php:272
+msgid "Unknown User"
+msgstr ""
+
+#: app/lib/User.php:586
+msgid "Aliases can't set empty."
+msgstr ""
+
+#: app/lib/User.php:589
+msgid "Email verify check Error"
+msgstr ""
+
+#: app/lib/User.php:592
+msgid "Username verify check Error"
+msgstr ""
+
+#: app/lib/User.php:595
+msgid "Password verify check Error"
+msgstr ""
+
+#: app/lib/User.php:598
+msgid "Url check error"
+msgstr ""
+
+#: app/lib/User.php:602
+msgid "Can't update User info."
+msgstr ""
+
+#: app/lib/UserCheck.php:56
+msgid "Email does not comply with the rules"
+msgstr ""
+
+#: app/lib/UserCheck.php:59
+msgid "Email already exists"
+msgstr ""
+
+#: app/lib/UserCheck.php:71
+msgid "Password hash is incorrect"
+msgstr ""
+
+#: app/lib/UserCheck.php:83
+msgid "User name does not comply with the rules"
+msgstr ""
+
+#: app/lib/UserCheck.php:87
+msgid "User name already exists"
+msgstr ""
+
+#: app/lib/UserControl.php:198
+msgid "reset param error."
+msgstr ""
+
+#: app/lib/UserControl.php:201
+msgid "Code time out."
+msgstr ""
+
+#: app/lib/UserControl.php:204
+#: app/lib/UserControl.php:392
+msgid "Code error."
+msgstr ""
+
+#: app/lib/UserControl.php:370
+msgid "Permission is exists"
+msgstr ""
+
+#: app/lib/UserControl.php:372
+msgid "Permission is not change."
+msgstr ""
+
+#: app/lib/UserControl.php:374
+msgid "Captcha code error."
+msgstr ""
+
+#: app/lib/UserControl.php:376
+msgid "User is locked, can't reset password."
+msgstr ""
+
+#: app/lib/UserControl.php:378
+msgid "Reset user ex."
+msgstr ""
+
+#: app/lib/UserControl.php:380
+msgid "Reset Password check error."
+msgstr ""
+
+#: app/lib/UserControl.php:382
+msgid "The password param is error format."
+msgstr ""
+
+#: app/lib/UserControl.php:384
+msgid "Old password is not match."
+msgstr ""
+
+#: app/lib/UserControl.php:386
+msgid "Cookie reset type is not in match list"
+msgstr ""
+
+#: app/lib/UserControl.php:388
+msgid "User password error."
+msgstr ""
+
+#: app/lib/UserControl.php:390
+msgid "Time out, please send mail again."
+msgstr ""
+
+#: app/lib/UserControl.php:394
+msgid "email address is change, please send mail again."
+msgstr ""
+
+#: app/lib/UserControl.php:396
+msgid "avatar type is not defined."
+msgstr ""
+
+#: app/lib/UserControl.php:398
+msgid "user upload avatar error or not found."
+msgstr ""
+
+#: app/lib/UserControl.php:400
+msgid "upload form data is not defined"
+msgstr ""
+
+#: app/lib/UserLogin.php:84
+msgid "Account check name error"
+msgstr ""
+
+#: app/lib/UserLogin.php:86
+msgid "Account not found"
+msgstr ""
+
+#: app/lib/UserLogin.php:88
+msgid "Hash Password does not match rule"
+msgstr ""
+
+#: app/lib/UserLogin.php:90
+msgid "Account password does not match"
+msgstr ""
+
+#: app/lib/UserLogin.php:92
+msgid "Captcha Error"
+msgstr ""
+
+#: app/lib/UserLogin.php:94
+msgid "Cookie Set Error"
+msgstr ""
+
+#: app/lib/UserLogin.php:96
+msgid "Can't set last login info"
+msgstr ""
+
+#: app/lib/UserLogin.php:98
+msgid "Error login count to much"
+msgstr ""
+
+#: app/lib/UserLogin.php:102
+msgid "Post login param error"
+msgstr ""
+
+#: app/lib/UserLogin.php:104
+msgid "unknown error"
+msgstr ""
+
+#: app/lib/UserLogin.php:259
+msgid "User last login info set error.ID: "
+msgstr ""
+
+#: app/lib/UserLogin.php:259
+msgid ".Exception:"
+msgstr ""
+
+#: app/lib/UserRegister.php:97
+msgid "User register insert sql error."
+msgstr ""
+
+#: app/lib/UserRegister.php:109
+msgid "User register success exception notice"
+msgstr ""
+
+#: app/lib/UserRegister.php:155
+msgid "User is already activation"
+msgstr ""
+
+#: app/lib/UserRegister.php:162
+msgid "Activation code is invalid"
+msgstr ""
+
+#: app/lib/UserRegister.php:165
+msgid "Activation code is time out"
+msgstr ""
+
+#: app/lib/UserRegister.php:168
+msgid "Activation code is error"
+msgstr ""
+
+#: app/lib/UserRegister.php:191
+msgid "Captcha code Error"
+msgstr ""
+
+#: app/lib/UserRegister.php:193
+msgid "Password char error"
+msgstr ""
+
+#: app/lib/UserRegister.php:195
+msgid "Name already exists or does not comply with the rules"
+msgstr ""
+
+#: app/lib/UserRegister.php:197
+msgid "Email is exists"
+msgstr ""
+
+#: app/lib/UserRegister.php:199
+msgid "Sql Insert Error"
+msgstr ""
+
+#: app/lib/VersionUpdate.php:26
+msgid "Only allow run a update."
+msgstr ""
+
+#: sys/config.php:3
+msgid "PHP Version must be greater than 5.4"
+msgstr ""
+
+#: sys/core/core.php:90
+msgid "Clone is forbidden."
+msgstr ""
+
+#: sys/core/hook.php:35
+#: sys/core/hook.php:36
+msgid "Error Callback function"
+msgstr ""
+
+#: sys/core/lib/image/Gd.php:55
+#: sys/core/lib/image/Imagick.php:49
+msgid "The image file does not exist"
+msgstr ""
+
+#: sys/core/lib/image/Gd.php:63
+msgid "Illegal image file"
+msgstr ""
+
+#: sys/core/lib/image/Gd.php:98
+#: sys/core/lib/image/Imagick.php:76
+msgid "No image resources can be saved"
+msgstr ""
+
+#: sys/core/lib/image/Gd.php:130
+#: sys/core/lib/image/Gd.php:142
+#: sys/core/lib/image/Gd.php:154
+#: sys/core/lib/image/Gd.php:166
+#: sys/core/lib/image/Gd.php:178
+#: sys/core/lib/image/Imagick.php:111
+#: sys/core/lib/image/Imagick.php:123
+#: sys/core/lib/image/Imagick.php:135
+#: sys/core/lib/image/Imagick.php:147
+#: sys/core/lib/image/Imagick.php:159
+msgid "Not specified image resource"
+msgstr ""
+
+#: sys/core/lib/image/Gd.php:198
+#: sys/core/lib/image/Imagick.php:179
+msgid "No image can be cropped resources"
+msgstr ""
+
+#: sys/core/lib/image/Gd.php:233
+#: sys/core/lib/image/Imagick.php:234
+msgid "No image can be abbreviated Resources"
+msgstr ""
+
+#: sys/core/lib/image/Gd.php:332
+#: sys/core/lib/image/Imagick.php:357
+msgid "Does not support the type of crop thumbnails"
+msgstr ""
+
+#: sys/core/lib/image/Gd.php:349
+#: sys/core/lib/image/Imagick.php:400
+msgid "No watermark can be added to image resources"
+msgstr ""
+
+#: sys/core/lib/image/Gd.php:352
+#: sys/core/lib/image/Imagick.php:403
+msgid "Watermark image absence"
+msgstr ""
+
+#: sys/core/lib/image/Gd.php:358
+msgid "Illegal watermark file"
+msgstr ""
+
+#: sys/core/lib/image/Gd.php:428
+#: sys/core/lib/image/Imagick.php:473
+msgid "Does not support the type of watermark location"
+msgstr ""
+
+#: sys/core/lib/image/Gd.php:465
+#: sys/core/lib/image/Imagick.php:518
+msgid "No image can be written to a text resources"
+msgstr ""
+
+#: sys/core/lib/image/Gd.php:468
+#: sys/core/lib/image/Imagick.php:521
+msgid "Font file does not exist:"
+msgstr ""
+
+#: sys/core/lib/image/Gd.php:542
+#: sys/core/lib/image/Imagick.php:613
+msgid "Position of the character type is not supported"
+msgstr ""
+
+#: sys/core/lib/image/Gd.php:563
+#: sys/core/lib/image/Imagick.php:532
+msgid "Wrong color values"
+msgstr ""
+
+#: sys/core/lib/image/GIF.php:46
+msgid "GIF image decoding error"
+msgstr ""
+
+#: sys/core/lib/image.php:67
+msgid "Unknown type Exception"
+msgstr ""
+
+#: sys/core/lib/image.php:75
+msgid "Image interface class error."
+msgstr ""
+
+#: sys/core/lib/medoo.php:88
+msgid "Type:"
+msgstr ""
+
+#: sys/core/lib/medoo.php:88
+msgid "not defined"
+msgstr ""
+
+#: sys/core/lib/pcache/File.php:26
+msgid "Page cache path can't write!"
+msgstr ""
+
+#: sys/core/lib/pcache.php:42
+msgid "Page Cache Drive Not Found"
+msgstr ""
+
+#: sys/core/lib/safe.php:24
+msgid "Safe Drive Not Found"
+msgstr ""
+
+#: sys/core/lib/session.php:34
+msgid "Session Drive Not Found"
+msgstr ""
+
+#: sys/core/lib/upload/Local.php:44
+msgid "Upload the root directory does not exist! Please try to manually create:"
+msgstr ""
+
+#: sys/core/lib/upload/Local.php:67
+msgid "Upload directory"
+msgstr ""
+
+#: sys/core/lib/upload/Local.php:67
+msgid " can not writable!"
+msgstr ""
+
+#: sys/core/lib/upload/Local.php:89
+msgid "File exists "
+msgstr ""
+
+#: sys/core/lib/upload/Local.php:95
+msgid "Save the file upload error!"
+msgstr ""
+
+#: sys/core/lib/upload/Local.php:116
+msgid "Directory "
+msgstr ""
+
+#: sys/core/lib/upload/Local.php:116
+msgid " Creation Failed!"
+msgstr ""
+
+#: sys/core/lib/upload.php:204
+msgid "Illegal image file!"
+msgstr ""
+
+#: sys/core/lib/upload.php:245
+msgid "File naming mistake!"
+msgstr ""
+
+#: sys/core/lib/upload.php:315
+msgid "Unknown upload error!"
+msgstr ""
+
+#: sys/core/lib/upload.php:320
+msgid "Illegal upload files!"
+msgstr ""
+
+#: sys/core/lib/upload.php:326
+msgid "Upload file size does not match!"
+msgstr ""
+
+#: sys/core/lib/upload.php:333
+msgid "Upload file MIME type does not allow!"
+msgstr ""
+
+#: sys/core/lib/upload.php:339
+msgid "Upload file extension is not allowed"
+msgstr ""
+
+#: sys/core/lib/upload.php:443
+msgid "Lib load error."
+msgstr ""
+
+#: sys/core/lib/upload.php:445
+msgid "Files is empty"
+msgstr ""
+
+#: sys/core/lib/upload.php:447
+msgid "Root path check error."
+msgstr ""
+
+#: sys/core/lib/upload.php:449
+msgid "Save path check error."
+msgstr ""
+
+#: sys/core/lib.php:55
+#: sys/core/lib.php:57
+msgid "Can't reload lib:"
+msgstr ""
+
+#: sys/core/page.php:55
+#: sys/core/page.php:62
+msgid "Can't load view file:"
+msgstr ""
+
+#: sys/core/uri.php:163
+msgid "URI core class find a exception."
+msgstr ""
+
+#: sys/core/view/404.php:3
+#: sys/core/view/404.php:7
+msgid "404 Not Found"
+msgstr ""
+
+#: sys/core/view/404.php:9
+msgid "Sorry, this page is not found!"
+msgstr ""
